@@ -1,7 +1,5 @@
 # Phorest Ecommerce QA Task – Graham Luby
 
-Graham Luby - Phorest Ecommerce QA Task
-
 ## Description
 
 This project contains an end-to-end UI test set for Phorest’s Gift Card purchasing flow. The main purchase flow and edge cases have been covered by a full set of manual test scripts, which have been executed with evidence enclosed. Three automated test scripts, written using Javascript and Selenium WebDriver, have been included to cover some of the main purchase flows. 
