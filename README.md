@@ -2,7 +2,7 @@
 
 ## Description
 
-This project contains an end-to-end UI test set for Phorest’s Gift Card purchasing flow. The main purchase flow and edge cases have been covered by a full set of manual test scripts, which have been executed with evidence enclosed. Three automated test scripts, written using Javascript and Selenium WebDriver, have been included to cover some of the main purchase flows. 
+This project contains an end-to-end UI test set for Phorest’s Gift Card purchasing flow. The main purchase flow and edge cases have been covered by a full set of manual test scripts, which have been executed with evidence enclosed. One automated test script, written using Javascript and Selenium WebDriver, has been included to cover the basic idea of the main purchase flow.
 The demo salon, found at https://gift-cards.phorest.com/salons/demous#, served as the testing environment. 
 
 ## Technologies used:
